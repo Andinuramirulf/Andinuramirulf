@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pengaturan</title>
+</head>
+<body>
+    <h1>Halaman Pengaturan</h1>
+    
+  <section id="security-settings">
+    <h2>Pengaturan Keamanan</h2>
+    <form>
+        <label for="old-password">Kata Sandi Lama:</label>
+        <input type="password" id="old-password" name="old-password" required>
+
+        <label for="new-password">Kata Sandi Baru:</label>
+        <input type="password" id="new-password" name="new-password" required>
+
+        <label for="confirm-password">Konfirmasi Kata Sandi Baru:</label>
+        <input type="password" id="confirm-password" name="confirm-password" required>
+
+        <button type="submit">Ubah Kata Sandi</button>
+    </form>
+  
+    <h2>Pengaturan Lainnya</h2>
+    <form>
+        <label for="email">Alamat Email:</label>
+        <input type="email" id="email" name="email">
+
+        <label for="notifikasi">Notifikasi:</label>
+        <input type="checkbox" id="notifikasi" name="notifikasi"><br><br>
+      
+        <label for="bahasa">Bahasa:</label>
+        <select id="bahasa" name="bahasa">
+            <option value="id">Bahasa Indonesia</option>
+            <option value="en">English</option>
+        </select><br><br>
+
+        <input type="submit" value="Simpan Perubahan">
+    </form>
+</body>
+</html>
