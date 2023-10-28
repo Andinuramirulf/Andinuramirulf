@@ -1,5 +1,5 @@
 ### Hi there 👋
-*Andi Nur Amirul Fatha 
+-Andi Nur Amirul Fatha 
 #### D121211061
 ### Teknik Informatika 
 
