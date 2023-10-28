@@ -1,7 +1,7 @@
 ### Hi there 👋
--Andi Nur Amirul Fatha 
+#### Andi Nur Amirul Fatha 
 #### D121211061
-### Teknik Informatika 
+#### Teknik Informatika 
 
 <!--
 **Andinuramirulf/Andinuramirulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
